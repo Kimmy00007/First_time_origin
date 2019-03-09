@@ -1,0 +1,504 @@
+2019-03-09 11:55:36,760 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 11:55:36,766 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 11:55:36,766 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 11:55:36,859 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 11:55:36,859 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 11:55:36,929 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 11:55:36,929 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 11:55:40,999 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 11:55:40,999 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 11:55:41,044 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 11:55:41,044 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 11:55:44,146 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 11:55:44,146 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 11:55:46,259 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 11:55:46,259 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 11:55:46,259 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 12:07:42,087 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 12:07:42,093 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 12:07:42,093 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 12:07:42,162 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 12:07:42,162 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 12:07:42,222 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 12:07:42,222 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 12:07:50,536 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 12:07:50,536 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 12:07:50,582 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 12:07:50,582 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 12:07:53,046 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 12:07:53,046 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 12:08:01,682 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 12:08:01,686 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 12:08:01,686 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 12:08:01,771 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 12:08:01,771 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 12:08:01,840 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 12:08:01,840 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 12:08:09,374 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 12:08:09,374 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 12:08:09,418 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 12:08:09,418 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 12:08:12,709 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 12:08:12,709 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 12:08:21,174 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 12:08:21,174 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 12:08:21,174 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 13:38:51,675 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 13:38:51,678 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 13:38:51,678 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 13:38:51,746 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 13:38:51,746 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 13:38:51,797 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 13:38:51,797 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 13:39:00,024 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 13:39:00,024 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 13:39:00,069 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 13:39:00,069 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 13:39:03,870 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 13:39:03,870 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 13:39:10,676 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 13:39:10,676 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 13:39:10,676 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 13:45:29,785 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 13:45:29,789 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 13:45:29,789 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 13:45:29,849 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 13:45:29,849 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 13:45:29,908 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 13:45:29,908 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 13:45:36,840 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 13:45:36,840 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 13:45:36,885 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 13:45:36,885 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 13:45:39,943 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 13:45:39,943 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 13:45:46,669 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 13:45:46,669 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 13:45:46,669 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:02:47,836 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:02:47,841 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:02:47,841 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:02:47,928 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:02:47,928 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:02:48,007 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:02:48,007 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:02:54,684 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:02:54,684 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:02:54,729 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:02:54,729 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:02:57,802 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:02:57,802 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:03:05,242 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:03:05,242 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:03:05,242 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:03:47,191 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:03:47,194 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:03:47,194 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:03:47,301 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:03:47,301 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:03:47,387 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:03:47,387 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:03:51,558 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:03:51,558 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:03:51,601 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:03:51,601 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:03:54,851 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:03:54,851 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:03:56,978 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:03:56,978 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:03:56,978 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:04:38,638 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:04:38,642 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:04:38,642 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:04:38,722 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:04:38,722 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:04:38,791 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:04:38,791 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:04:41,157 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:04:41,157 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:04:41,200 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:04:41,200 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:04:44,180 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:04:44,180 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:04:46,314 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:04:46,314 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:04:46,314 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:07:03,459 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:07:03,462 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:07:03,462 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:07:03,528 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:07:03,528 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:07:03,607 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:07:03,607 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:07:05,945 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:07:05,945 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:07:05,988 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:07:05,988 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:07:09,175 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:07:09,175 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:07:12,631 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:07:12,631 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:07:12,631 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:09:58,956 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:09:58,959 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:09:58,959 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:09:59,051 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:09:59,051 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:09:59,120 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:09:59,120 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:10:01,583 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:10:01,583 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:10:01,629 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:10:01,629 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:10:04,618 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:10:04,618 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:10:07,457 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:10:07,457 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:10:07,457 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:12:08,234 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:12:08,239 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:12:08,239 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:12:08,326 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:12:08,326 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:12:08,391 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:12:08,391 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:12:16,452 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:12:16,452 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:12:16,500 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:12:16,500 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:12:19,538 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:12:19,538 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:12:21,835 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:12:21,835 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:12:21,835 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:15:51,648 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:15:51,650 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:15:51,650 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:15:51,725 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:15:51,725 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:15:51,826 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:15:51,826 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:15:59,499 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:15:59,499 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:15:59,543 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:15:59,543 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:16:02,509 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:16:02,509 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:16:10,915 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:16:10,915 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:16:10,915 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:28:54,069 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:28:54,072 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:28:54,072 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:28:54,147 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:28:54,147 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:28:54,226 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:28:54,226 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:29:03,878 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:29:03,878 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:29:03,925 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:29:03,925 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:29:06,979 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:29:06,979 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:29:13,702 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:29:13,702 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:29:13,702 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:38:42,548 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:38:42,553 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:38:42,553 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:38:42,630 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:38:42,630 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:38:42,696 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:38:42,696 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:38:52,764 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:38:52,764 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:38:52,810 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:38:52,810 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:38:55,822 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:38:55,822 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:39:04,570 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:39:04,570 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:39:04,570 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:43:31,580 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:43:31,586 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:43:31,586 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:43:31,667 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:43:31,667 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:43:31,731 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:43:31,731 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:43:41,489 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:43:41,489 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:43:41,535 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:43:41,535 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:43:44,558 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:43:44,558 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:43:52,463 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:43:52,463 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:43:52,463 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:46:44,640 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:46:44,643 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:46:44,643 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:46:44,724 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:46:44,724 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:46:44,800 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:46:44,800 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:46:54,723 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:46:54,723 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:46:54,766 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:46:54,766 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:46:57,732 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:46:57,732 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:47:09,787 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:47:09,787 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:47:09,787 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:51:24,116 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:51:24,120 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:51:24,120 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:51:24,199 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:51:24,199 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:51:24,265 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:51:24,265 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:51:33,892 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:51:33,892 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:51:33,935 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:51:33,935 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:51:37,036 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:51:37,036 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:54:36,032 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:54:36,037 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:54:36,037 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:54:36,104 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:54:36,104 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:54:36,185 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:54:36,185 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:54:43,471 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:54:43,471 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:54:43,512 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:54:43,512 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:54:46,481 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:54:46,481 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:55:05,242 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:55:05,244 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:55:05,244 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:55:05,330 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:55:05,330 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:55:05,397 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:55:05,397 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:55:13,205 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:55:13,205 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:55:13,246 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:55:13,246 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:55:16,292 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:55:16,292 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:55:24,110 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:55:24,110 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:55:24,110 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 14:57:41,530 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:57:41,544 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:57:41,544 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 14:57:41,646 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:57:41,646 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 14:57:41,707 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:57:41,707 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 14:57:49,814 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:57:49,814 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 14:57:49,859 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:57:49,859 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 14:57:52,919 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 14:57:52,919 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:03:31,955 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:03:31,959 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:03:31,959 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:03:32,033 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:03:32,033 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:03:32,083 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:03:32,083 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:03:42,237 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:03:42,237 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:03:42,279 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:03:42,279 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:03:45,285 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:03:45,285 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:04:11,016 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:04:11,016 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:04:11,016 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:07:21,503 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:07:21,507 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:07:21,507 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:07:21,578 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:07:21,578 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:07:21,660 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:07:21,660 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:07:33,467 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:07:33,467 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:07:33,513 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:07:33,513 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:07:36,753 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:07:36,753 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:07:50,138 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:07:50,138 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:07:50,138 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:08:56,526 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:08:56,530 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:08:56,530 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:08:56,601 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:08:56,601 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:08:56,677 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:08:56,677 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:09:06,399 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:09:06,399 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:09:06,444 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:09:06,444 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:09:09,404 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:09:09,404 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:09:21,663 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:09:21,663 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:09:21,663 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:10:22,924 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:10:22,927 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:10:22,927 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:10:23,004 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:10:23,004 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:10:23,077 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:10:23,077 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:10:32,806 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:10:32,806 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:10:32,853 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:10:32,853 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:10:35,146 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:10:35,146 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:10:43,024 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:10:43,024 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:10:43,024 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:10:53,359 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:10:53,361 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:10:53,361 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:10:53,460 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:10:53,460 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:10:53,513 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:10:53,513 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:11:05,640 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:11:05,640 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:11:05,681 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:11:05,681 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:11:08,637 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:11:08,637 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:11:19,270 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:11:19,270 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:11:19,270 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:13:16,605 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:13:16,618 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:13:16,618 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:13:16,709 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:13:16,709 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:13:16,771 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:13:16,771 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:14:20,219 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:14:20,229 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:14:20,229 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:14:20,315 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:14:20,315 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:14:20,378 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:14:20,378 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:14:29,726 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:14:29,726 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:14:29,772 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:14:29,772 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:14:33,070 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:14:33,070 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:15:21,360 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:15:21,363 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:15:21,363 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:15:21,450 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:15:21,450 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:15:21,515 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:15:21,515 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:15:30,222 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:15:30,222 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:15:30,263 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:15:30,263 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:15:33,546 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:15:33,546 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:15:46,770 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:15:46,770 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:15:46,770 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:21:42,179 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:21:42,184 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:21:42,184 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:21:42,267 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:21:42,267 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:21:42,338 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:21:42,338 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:22:30,396 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:22:30,399 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:22:30,399 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:22:30,497 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:22:30,497 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:22:30,577 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:22:30,577 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:22:40,394 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:22:40,394 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:22:40,444 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:22:40,444 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:22:43,411 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:22:43,411 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:24:05,530 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:24:05,534 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:24:05,534 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:24:05,629 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:24:05,629 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:24:05,696 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:24:05,696 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:24:13,643 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:24:13,643 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:24:13,689 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:24:13,689 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:24:16,718 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:24:16,718 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:24:23,576 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:24:23,576 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:24:23,576 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:26:16,392 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:26:16,395 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:26:16,395 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:26:16,507 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:26:16,507 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:26:16,587 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:26:16,587 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:26:23,337 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:26:23,337 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:26:23,386 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:26:23,386 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:26:26,348 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:26:26,348 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:26:34,814 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:26:34,814 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:26:34,814 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:27:56,144 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:googleCode
+2019-03-09 15:27:56,144 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:googleCode
+2019-03-09 15:27:56,144 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:googleCode
+2019-03-09 15:27:56,184 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:btnAjaxSubmit
+2019-03-09 15:27:56,184 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:btnAjaxSubmit
+2019-03-09 15:27:56,184 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:btnAjaxSubmit
+2019-03-09 15:28:31,889 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:28:31,891 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:28:31,891 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username
+2019-03-09 15:28:31,995 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:28:31,995 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:username2
+2019-03-09 15:28:32,057 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:28:32,057 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:password
+2019-03-09 15:28:40,063 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:28:40,063 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:yzm
+2019-03-09 15:28:40,107 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:28:40,107 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:send-btn
+2019-03-09 15:28:43,318 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:28:43,318 first_case.py---> setUp 20: INFO----> this is chrome
+2019-03-09 15:28:45,524 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:28:45,524 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:28:45,524 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:vcCode
+2019-03-09 15:28:55,976 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:googleCode
+2019-03-09 15:28:55,976 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:googleCode
+2019-03-09 15:28:55,976 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:googleCode
+2019-03-09 15:28:57,136 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:btnAjaxSubmit
+2019-03-09 15:28:57,136 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:btnAjaxSubmit
+2019-03-09 15:28:57,136 find_element.py---> get_element 20: INFO----> 定位方式:id--->定位值:btnAjaxSubmit
