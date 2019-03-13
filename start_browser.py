@@ -1,16 +1,19 @@
 #coding=utf-8
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as ec
 import time
 from PIL import Image
 from ShowapiRequest import ShowapiRequest
 
 #打开浏览器，输入网址，输入账号、密码
 driver = webdriver.Chrome()
-driver.get("http://biz-test.jiutongpay.com.cn//")
+driver.get("http://biz-test.jiutongpay.com.cn")
 driver.maximize_window()
 time.sleep(2)
-driver.find_element_by_id("username").send_keys("JTZF800007")
-driver.find_element_by_id("username2").send_keys("kw@163.com")
+driver.find_element_by_id("username").send_keys("JTZF800003")
+driver.find_element_by_id("username2").send_keys("1@163.com")
 driver.find_element_by_id("password").send_keys("111111")
 
 #获取验证码截图
@@ -35,3 +38,15 @@ time.sleep(2)
 driver.find_element_by_id("yzm").send_keys(text)
 driver.find_element_by_id("send-btn").click()
 time.sleep(2)
+driver.find_element_by_xpath("/html/body/div[4]/div/div/div[2]/div[2]/div/ul/li[4]/a[4]").click()
+driver.find_element_by_xpath("//*[@id='eb_money']").send_keys("2")
+driver.find_element_by_xpath("/html/body/div[4]/div/div/div[2]/div[1]/form/div[2]/div[2]/div/span").click()
+for i in range(100):
+    driver.find_element_by_xpath("/html/body/div[4]/div/div/div[2]/div[1]/form/div[2]/div[2]/input").click()
+    WebDriverWait(driver,3).until(ec.element_to_be_clickable((By.XPATH,"//*[@id='layui-layer1']/div[3]/a"))).click
+
+
+
+
+
+
