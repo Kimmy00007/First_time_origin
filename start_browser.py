@@ -9,7 +9,7 @@ from ShowapiRequest import ShowapiRequest
 
 #打开浏览器，输入网址，输入账号、密码
 driver = webdriver.Chrome()
-driver.get("http://biz-test.jiutongpay.com.cn")
+driver.get("**********************************")
 driver.maximize_window()
 time.sleep(2)
 driver.find_element_by_id("username").send_keys("JTZF800003")
@@ -41,9 +41,12 @@ time.sleep(2)
 driver.find_element_by_xpath("/html/body/div[4]/div/div/div[2]/div[2]/div/ul/li[4]/a[4]").click()
 driver.find_element_by_xpath("//*[@id='eb_money']").send_keys("2")
 driver.find_element_by_xpath("/html/body/div[4]/div/div/div[2]/div[1]/form/div[2]/div[2]/div/span").click()
-for i in range(100):
+for i in range(5):
     driver.find_element_by_xpath("/html/body/div[4]/div/div/div[2]/div[1]/form/div[2]/div[2]/input").click()
-    WebDriverWait(driver,3).until(ec.element_to_be_clickable((By.XPATH,"//*[@id='layui-layer1']/div[3]/a"))).click
+    time.sleep(2)
+    alert = driver.switch_to_alert()
+    alert.accept()
+
 
 
 

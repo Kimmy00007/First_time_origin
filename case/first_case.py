@@ -20,7 +20,7 @@ class FirstCase(unittest.TestCase):
         cls.file_name = "D:/JT_selenium/Image/test.png"
         cls.file_name2 = "D:/JT_selenium/Image/test2.png"
         cls.driver = webdriver.Chrome()
-        cls.driver.get('http://biz-test.jiutongpay.com.cn')
+        cls.driver.get('**********************************')
         cls.driver.maximize_window()
     def setUp(self):
         self.logger.info("this is chrome")
@@ -63,7 +63,7 @@ if __name__ == '__main__':
     suite.addTest(FirstCase('test_login_success'))
     suite.addTest(FirstCase('test_login_changepasword'))
     suite.addTest(FirstCase('test_login_changepaypasword'))
-    suite.addTest(FirstCase('test_login_bindingcode'))
+    suite.addTest(FirstCase('test_login_bindingcode'))1
     # unittest.TextTestRunner().run(suite)
     # suite = unittest.TestLoader().loadTestsFromTestCase(FirstCase)
     runner = HTMLTestRunner.HTMLTestRunner(stream=f, title="report", description=u"测试报告", verbosity=2)
